@@ -1,0 +1,11 @@
+# Basura del sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Configuración de herramientas de desarrollo
+.claude/
+
+# Nada de la carpeta NEGOCIO se sube desde acá: este repositorio
+# arranca dentro de Web/, así que los Excel de costos, márgenes y
+# proveedores quedan afuera por diseño.
